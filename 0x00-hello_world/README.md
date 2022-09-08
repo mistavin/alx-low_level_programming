@@ -1,1 +1,1 @@
-0x00-hello-word project
+0x00. C - Hello, World
